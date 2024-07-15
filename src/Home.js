@@ -61,6 +61,7 @@ const Home = () => {
     return (
         <>
             <Header />
+            
             <Container className='d-flex align-items-center height-name-sec' id='home' >
                 <Row className='w-100'>
                     <Col lg="6" className='d-flex flex-column justify-content-center'>
@@ -78,6 +79,7 @@ const Home = () => {
                     </Col>
                 </Row>
             </Container>
+
             <Container className='expertise-sec p-xxl-5 p-3 pb-1 rounded-5' data-aos="fade-up">
                 <h1 className='expertise-title'>MY EXPERTISE</h1>
                 <h1 className='expertise-tit-2 text-center'>What I Do</h1>
@@ -204,7 +206,7 @@ const Home = () => {
                         </div>
                     </Col>
                 </Row>
-            </Container >
+            </Container>
 
             <Container className='abt-me-sec' id='abtme' data-aos="zoom-in"
                 data-aos-easing="ease-out-cubic"
@@ -369,10 +371,9 @@ const Home = () => {
                     </Col>
                 </Row>
             </Container>
-            <Footer />
 
+            <Footer />
         </>
     )
-
 }
 export default Home
