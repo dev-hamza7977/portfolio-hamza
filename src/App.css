@@ -1022,57 +1022,43 @@ background-clip: text;
 
   .progress-bar-skills {
     width: 50vh;
-    margin-left: -55px;
-    margin-top: 43px;
+    margin-left: -68px;
+    margin-top: 50px;
     background-color: darkgray;
   }
 
   .progress-bar-skills-css {
     width: 50vh;
-    margin-left: -34px;
-    margin-top: 43px;
+    margin-left: -41px;
+    margin-top: 50px;
     background-color: darkgray;
   }
 
   .progress-bar-skills-js {
     width: 50vh;
-    margin-left: -111px;
-    margin-top: 43px;
-    background-color: darkgray;
-  }
-
-  .progress-bar-skills-jquery {
-    width: 50vh;
-    margin-left: -69px;
+    margin-left: -136px;
     margin-top: 50px;
     background-color: darkgray;
   }
 
   .progress-bar-skills-jquery {
     width: 50vh;
-    margin-left: -73px;
-    margin-top: 50px;
+    margin-left: -89px;
+    margin-top: 55px;
     background-color: darkgray;
   }
   
   .progress-bar-skills-bootstrap {
     width: 50vh;
-    margin-left: -117px;
-    margin-top: 43px;
+    margin-left: -142px;
+    margin-top: 50px;
     background-color: darkgray;
   }
 
   .progress-bar-skills-react {
     width: 50vh;
-    margin-left: -79px;
-    margin-top: 43px;
-    background-color: darkgray;
-  }
-
-  .progress-bar-skills-react {
-    width: 50vh;
-    margin-left: -79px;
-    margin-top: 43px;
+    margin-left: -95px;
+    margin-top: 50px;
     background-color: darkgray;
   }
 
